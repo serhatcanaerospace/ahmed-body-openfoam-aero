@@ -1,0 +1,142 @@
+solid ahmed
+facet normal 0 0 1
+outer loop
+vertex 0 0 0
+vertex 1.62 0 0
+vertex 1.62 1 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0 0 0
+vertex 1.62 1 0
+vertex 0 1 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 1.62 0 0
+vertex 2.3 0 0
+vertex 2.3 1 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 1.62 0 0
+vertex 2.3 1 0
+vertex 1.62 1 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0 0 0
+vertex 0 1 0
+vertex 0 1 0.75
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0 0 0
+vertex 0 1 0.75
+vertex 0 0 0.75
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 2.3 0 0
+vertex 2.3 0 0.43
+vertex 2.3 1 0.43
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 2.3 0 0
+vertex 2.3 1 0.43
+vertex 2.3 1 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0 0 0
+vertex 0 0 0.75
+vertex 1.62 0 0.75
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0 0 0
+vertex 1.62 0 0.75
+vertex 1.62 0 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0 1 0
+vertex 1.62 1 0
+vertex 1.62 1 0.75
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0 1 0
+vertex 1.62 1 0.75
+vertex 0 1 0.75
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 1.62 0 0
+vertex 1.62 0 0.75
+vertex 2.3 0 0.43
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 1.62 0 0
+vertex 2.3 0 0.43
+vertex 2.3 0 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 1.62 1 0
+vertex 2.3 1 0
+vertex 2.3 1 0.43
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 1.62 1 0
+vertex 2.3 1 0.43
+vertex 1.62 1 0.75
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0 0 0.75
+vertex 0 1 0.75
+vertex 1.62 1 0.75
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0 0 0.75
+vertex 1.62 1 0.75
+vertex 1.62 0 0.75
+endloop
+endfacet
+facet normal -0.42579704 0 -0.9048187
+outer loop
+vertex 1.62 0 0.75
+vertex 1.62 1 0.75
+vertex 2.3 1 0.43
+endloop
+endfacet
+facet normal -0.42579704 0 -0.9048187
+outer loop
+vertex 1.62 0 0.75
+vertex 2.3 1 0.43
+vertex 2.3 0 0.43
+endloop
+endfacet
+endsolid ahmed
